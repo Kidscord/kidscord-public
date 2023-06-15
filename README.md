@@ -7,3 +7,6 @@
 
 
 # this is the public chat for kidscord users.
+
+
+https://kidscord.github.io/kidscord-public/
